@@ -1,0 +1,7 @@
+step,stage,rows_left
+1,Raw rows,541909
+2,After removing exact duplicates,536641
+3,After removing cancellations,527390
+4,After removing missing CustomerID,392732
+5,After removing zero/negative qty or price,392692
+6,"After removing non-products (postage, fees)",391150
